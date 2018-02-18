@@ -18,6 +18,13 @@ We use the [FER-2013 Faces Database](http://www.socsci.ru.nl:8180/RaFD2/RaFD?p=m
 
 You have to request for access to the dataset or you can get it on [Kraggle](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data).
 
+
+## Download per-trained model and data in numpy format from this link.
+
+* Step 1: Download [data.zip](https://drive.google.com/open?id=1z74zDZDBbWOc_L62KYMbHT8McJ1vqFrw) file.
+* Step 2: Unzip the files.
+* Step 3: Paste all the files into the data folder of the repository
+
 ## Train 
 ```bash
 $ python emotion_recognition.py train
